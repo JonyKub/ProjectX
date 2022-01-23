@@ -271,8 +271,8 @@ p:last-child {
   .support-achievements {
     display: flex;
     flex-wrap: wrap;
-  
-  } 
+
+  }
 }
 
 @media (min-width: 992px) {
@@ -650,7 +650,7 @@ header#navbar {
   #block-tariffs .block-title {
     font-size: 36px;
   }
-  
+
 }
 @media (max-width: 991px) {
   #block-tariffs .block-title {
@@ -911,11 +911,11 @@ header#navbar {
   outline: 0;
 }
 #block-views-block-testimonials-block-1 .slick-arrow.slick-prev {
-  background: url("/img/arrow-left.svg") no-repeat center;
+  background: url("/img/arrow-left.png") no-repeat center;
   background-size: contain;
 }
 #block-views-block-testimonials-block-1 .slick-arrow.slick-next {
-  background: url("/img/arrow-right.svg") no-repeat center;
+  background: url("/img/arrow-right.png") no-repeat center;
   background-size: contain;
 }
 #block-views-block-testimonials-block-1 .views-field-field-project-logo {
@@ -1670,7 +1670,7 @@ header#navbar {
 
 .competency {
   margin-bottom: 60px;
-  
+
   margin-left: 93px;
 
 }
@@ -1946,7 +1946,7 @@ header#navbar {
   font-size: 16px;
   line-height: 1.37;
   margin-bottom: 5px;
-  
+
 }
 @media (max-width: 600px) {
   .user-teaser {
@@ -2113,3 +2113,4 @@ header#navbar {
 .dropdown-menu li {
   margin: 10px;
 }
+
